@@ -1,0 +1,17 @@
+# Core scientific / data-science stack for the 3rd-ML100Days notebooks
+numpy==2.5.3
+pandas==3.0.5
+scipy==1.18.1
+matplotlib==3.11.1
+seaborn==0.13.2
+scikit-learn==1.9.0
+Pillow==12.3.0
+requests==2.34.2
+
+# Deep learning (used by the Keras / TensorFlow homework notebooks)
+tensorflow-cpu==2.21.0
+
+# Jupyter runtime for running the homework notebooks
+jupyterlab==4.6.3
+notebook==7.6.2
+ipykernel==7.3.0
