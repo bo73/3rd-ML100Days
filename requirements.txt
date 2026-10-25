@@ -5,7 +5,7 @@ scipy==1.18.1
 matplotlib==3.11.1
 seaborn==0.13.2
 scikit-learn==1.9.0
-Pillow==12.3.0
+Pillow==13.0.0
 requests==2.34.2
 
 # Deep learning (used by the Keras / TensorFlow homework notebooks)
